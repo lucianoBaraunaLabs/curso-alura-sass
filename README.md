@@ -1,4 +1,4 @@
-# Estudo - Gulp
+# Estudo - Sass
 Repositório destinado aos estudos da plataforma Alura sobre Sass
 
 ### Links
